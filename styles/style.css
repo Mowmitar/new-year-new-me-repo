@@ -1,0 +1,30 @@
+header {
+    height: 800px;
+    width: 1600px;
+    background-image: url(/images/banner/banner3.png);
+    text-align: end;
+    display: flex;
+   align-items: center;
+   justify-content: end;
+}
+.header-title {
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    padding-right: 200px;
+}
+.header-description{
+    color: white;
+    font-size: 18px;
+    padding-right: 200px;
+}
+.btn-primary{
+    color: blue;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 200px;
+    height: 50px;
+    width: 170px;
+    border-radius: 5px;
+    border: none;
+}
