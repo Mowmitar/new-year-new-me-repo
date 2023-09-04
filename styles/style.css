@@ -28,3 +28,19 @@ header {
     border-radius: 5px;
     border: none;
 }
+/* 1st section  */
+.failure{
+    width: 1072px;
+    height: 724px;
+    display: flex;
+    margin-top: 100px;
+    border: 2px solid red;
+    margin-left: 140px;
+    
+}
+.failure-title{
+
+}
+.failure-description{
+
+}
