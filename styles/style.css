@@ -79,6 +79,39 @@ font-weight: bolder;
 .plan-description{
     font-size: 18px;
 }
+/* mindset section */
+.mindset{
+    width: 1140px;
+    height: 300px;
+   margin-left: 150px;
+    background-image: url(/images/gradient1.png),url(/images/watch.png);
+    margin-top: 130px;
+}
+.gradient{
+   height: 300px;
+   width: 459px;
+ padding-top: 30px;
+ padding-left: 40px;
+  
+  margin-top: 30px;
+ 
+}
+.gradient-title{
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+   
+}
+.btn-white{
+background-color: white;
+color: blue;
+border: none;
+height: 45px;
+width: 130px;
+font-weight: 600;
+font-size: 16px;
+border-radius: 4px;
+}
 /* footer  */
 footer{background: black;
   width: 1600px;
