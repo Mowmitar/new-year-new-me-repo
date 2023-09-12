@@ -1,7 +1,7 @@
 header {
     height: 800px;
     width: 1600px;
-    background-image: url(/images/banner/banner3.png);
+    background-image: url(./images/banner/banner3.png);
     text-align: end;
     display: flex;
    align-items: center;
@@ -84,7 +84,7 @@ font-weight: bolder;
     width: 1140px;
     height: 300px;
    margin-left: 150px;
-    background-image: url(file:///D:/Projects/new-year-new-me-repo/images/gradient1.png),url(file:///D:/Projects/new-year-new-me-repo/images/watch.png);
+    background-image: url(./images/gradient1.png),url(./images/watch.png);
     margin-top: 130px;
 }
 .gradient{
